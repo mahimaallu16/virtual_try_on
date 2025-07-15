@@ -1,12 +1,4 @@
-# UOMO E-commerce Website Using ReactJS
-
-![uomo-ecommerce-website-reactjs](https://socialify.git.ci/shakti177/uomo-ecommerce-website-reactjs/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
-
-## 📌 Live Demo
-https://uomo-ecommerce-website.netlify.app/
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fec4a869-298c-4e9c-8df6-cb6f132f7bd8/deploy-status)](https://app.netlify.com/sites/uomo-ecommerce-website/deploys)
-
+# FITFUSION E-commerce Website
 ## 😎 Features
 
 - Sleek and modern UI inspired by top e-commerce platforms
