@@ -24,10 +24,10 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/shakti177/uomo-ecommerce-website-reactjs.git
+$ https://github.com/mahimaallu16/virtual_try_on.git
 
 # Go into the repository
-$ cd uomo-ecommerce-website-reactjs
+$ cd virtual_try_on
 
 # Remove current origin repository
 $ git remote remove origin
